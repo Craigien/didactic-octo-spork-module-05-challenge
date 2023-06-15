@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-The application can be accessed at this URL: 
+The application can be accessed at this URL: https://craigien.github.io/didactic-octo-spork-module-05-challenge/
 
 To add events to a timeblock, type in your event details into the desired hour time block and then click the save button.  The data you enter will be saved and appear on page refresh.  You can enter event details into any number of the time blocks available to have those event details display.
 
